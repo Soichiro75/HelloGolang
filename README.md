@@ -1,7 +1,7 @@
-![gopher](https://golang.org/doc/gopher/frontpage.png)
-![gopher](https://golang.org/doc/gopher/appenginegophercolor.jpg)
-1
-![gopher](https://golang.org/doc/gopher/pencil/gopherswim.jpg)
+![gopher](https://golang.org/doc/gopher/bumper320x180.png)
+
+![gopher](https://golang.org/doc/gopher/project.png)
+![gopher](https://golang.org/doc/gopher/talks.png)
 
 
 # HelloGolang
