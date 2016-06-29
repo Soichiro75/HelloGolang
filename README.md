@@ -1,4 +1,8 @@
 ![gopher](https://golang.org/doc/gopher/frontpage.png)
+![gopher](https://golang.org/doc/gopher/appenginegophercolor.jpg)
+1
+![gopher](https://golang.org/doc/gopher/pencil/gopherswim.jpg)
+
 
 # HelloGolang
 My Golang-Self-Study repository
