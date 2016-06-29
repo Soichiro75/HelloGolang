@@ -1,10 +1,10 @@
-![gopher](https://golang.org/doc/gopher/bumper640x360.png)
+![gopher](https://golang.org/doc/gopher/bumper480x270.png)
 
 ![gopher](https://golang.org/doc/gopher/project.png)
-![gopher](https://golang.org/doc/gopher/talks.png)
-![gopher](https://golang.org/doc/gopher/ref.png)
-![gopehr](https://golang.org/doc/gopher/run.png)
 ![gopher](https://golang.org/doc/gopher/pkg.png)
+![gopehr](https://golang.org/doc/gopher/run.png)
+![gopher](https://golang.org/doc/gopher/ref.png)
+![gopher](https://golang.org/doc/gopher/talks.png)
 
 
 # HelloGolang
