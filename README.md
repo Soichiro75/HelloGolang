@@ -12,7 +12,7 @@ My Golang-Self-Study repository
 
 Install Golang by either downloading it [manually](https://golang.org/dl/) or use [Homebrew](http://brew.sh/).
 
-### Forexample :
+### For Example :
 
 ```
 mkdir /work/go
@@ -21,18 +21,20 @@ wget https://storage.googleapis.com/golang/go1.6.2.linux-amd64.tar.gz
 mkdir ~/go
 tar -C /usr/local -xzf go1.6.2.linux-amd64.tar.gz
 vi /etc/profile
-`export PATH=$PATH:/usr/local/go/bin`
+  ` Add The Following:
+  export PATH=$PATH:/usr/local/go/bin
+  `
 source /etc/profile
 go version
 mkdir $HOME/go
 mkdir $HOME/go/{bin,pkg,src}
 vi ~/ .bash_profile
-`
-# Golang
-export GOPATH=$HOME/go
-PATH=$PATH:$HOME/bin:$GOPATH/bin
-export PATH
-`
+  ` Add The Following:
+  # Golang
+  export GOPATH=$HOME/go
+  PATH=$PATH:$HOME/bin:$GOPATH/bin
+  export PATH
+  `
 source ~/.bash_profile
 ```
 
