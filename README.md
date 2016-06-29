@@ -1,5 +1,3 @@
-![gopher](https://golang.org/doc/gopher/bumper480x270.png)
-
 ![gopher](https://golang.org/doc/gopher/project.png)
 ![gopher](https://golang.org/doc/gopher/pkg.png)
 ![gopehr](https://golang.org/doc/gopher/run.png)
@@ -13,6 +11,32 @@ My Golang-Self-Study repository
 ## Installing Go
 
 Install Golang by either downloading it [manually](https://golang.org/dl/) or use [Homebrew](http://brew.sh/).
+
+### Forexample :
+
+```
+mkdir /work/go
+cd /work/go/
+wget https://storage.googleapis.com/golang/go1.6.2.linux-amd64.tar.gz
+mkdir ~/go
+tar -C /usr/local -xzf go1.6.2.linux-amd64.tar.gz
+vi /etc/profile
+`export PATH=$PATH:/usr/local/go/bin`
+source /etc/profile
+go version
+mkdir $HOME/go
+mkdir $HOME/go/{bin,pkg,src}
+vi ~/ .bash_profile
+`
+# Golang
+export GOPATH=$HOME/go
+PATH=$PATH:$HOME/bin:$GOPATH/bin
+export PATH
+`
+source ~/.bash_profile
+```
+
+
 
 ## Helpful Links
 
