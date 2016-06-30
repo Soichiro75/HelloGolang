@@ -21,7 +21,7 @@ wget https://storage.googleapis.com/golang/go1.6.2.linux-amd64.tar.gz
 mkdir ~/go
 tar -C /usr/local -xzf go1.6.2.linux-amd64.tar.gz
 vi /etc/profile
-  ` Add The Following:
+  `# Add(or edit) The Following:
   export PATH=$PATH:/usr/local/go/bin
   `
 source /etc/profile
@@ -29,7 +29,7 @@ go version
 mkdir $HOME/go
 mkdir $HOME/go/{bin,pkg,src}
 vi ~/ .bash_profile
-  ` Add The Following:
+  `# Add(or edit) The Following:
   # Golang
   export GOPATH=$HOME/go
   PATH=$PATH:$HOME/bin:$GOPATH/bin
