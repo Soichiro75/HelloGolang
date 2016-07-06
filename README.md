@@ -5,7 +5,7 @@
 ![gopher](https://golang.org/doc/gopher/talks.png)
 
 
-# HelloGolang
+# hello-golang
 My Golang-Self-Study repository
 
 ## Installing Go
