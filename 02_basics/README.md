@@ -1,4 +1,4 @@
-# A Tour of Go. 
+# A Tour of Go.
 
 [Basics/Packages, variables, and functions.](https://go-tour-jp.appspot.com/basics/1)
 
@@ -9,13 +9,12 @@
 
 `fmt.Printf("%v %v %v %q\n", i, f, b, s)`
 
-	`%v` and `%q` are 'verbs' formatted by 'package fmt'.
-	
-	%v: the value in a default format
+`%v` and `%q` are 'verbs' formatted by 'package fmt'.
 
-	%q: a single-quoted character literal safely escaped with Go syntax.
-	
-	%T: a Go-syntax representation of the type of the value
+%v: the value in a default format
 
-	For more details, see [https://golang.org > Packages > fmt](https://golang.org/pkg/fmt/).
+%q: a single-quoted character literal safely escaped with Go syntax.
 
+%T: a Go-syntax representation of the type of the value
+
+For more details, see [https://golang.org > Packages > fmt](https://golang.org/pkg/fmt/) .
