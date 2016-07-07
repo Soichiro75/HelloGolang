@@ -9,13 +9,13 @@
 
 `>>`, `<<` are `Bitwise Operators`
 
-(11_basic-types.go, )
+(11_basic-types.go, 16_numeric-constants.go)
 
 op1 >> op2 -- The SHIFT RIGHT operator moves the bits to the right, discards the far right bit, and assigns the leftmost bit a value of 0. Each move to the right effectively divides op1 in half.
 
 For Example:
 ```
-You can see bellowing Sample Code in 99_bitwiseOperatorTest.go:
+You can see following Sample Code in 99_bitwiseOperatorTest.go:
 
 package main
 
