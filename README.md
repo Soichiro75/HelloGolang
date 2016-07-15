@@ -6,7 +6,11 @@
 
 
 # hello-golang
+
+This document is still incomplete.
+
 My Golang-Self-Study repository
+
 
 ## Installing Go
 
